@@ -1,0 +1,27 @@
+[
+    {
+        "id_book": "got1",
+        "title": "A Game of Thrones",
+        "copies": 4
+    },
+    {
+        "id_book": "got2",
+        "title": "A Clash of Kings",
+        "copies": 4
+    },
+    {
+        "id_book": "got3",
+        "title": "A Storm of Swords",
+        "copies": 3
+    },
+    {
+        "id_book": "got4",
+        "title": "A Feast for Crows",
+        "copies": 3
+    },
+    {
+        "id_book": "got5",
+        "title": "A Dance with Dragons",
+        "copies": 2
+    }
+]
